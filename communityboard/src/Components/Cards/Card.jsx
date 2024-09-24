@@ -6,6 +6,9 @@ import kitfo from '../../assets/kitfo.jpeg';
 import firfir from '../../assets/firfir.jpeg';
 import misir from '../../assets/misir.jpeg';
 import gomen from '../../assets/gomen.jpeg';
+import atayef from '../../assets/atayef.jpeg';
+import kik_alicha from '../../assets/kik_alicha.jpeg';
+import chechebsa from '../../assets/chechebsa.jpeg';
 import './Card.css';
 
 const Card = () => {
@@ -45,6 +48,21 @@ const Card = () => {
         image={gomen}
         heading="Gomen"
         subheading="Collard greens cooked with onions and garlic"
+      />
+        <MenuCard
+        image={atayef}
+        heading="Atayef"
+        subheading="Filled pancake with sweet fillings"
+      />
+      <MenuCard
+        image={kik_alicha}
+        heading="Kik Alicha"
+        subheading="Mild split pea stew served with injera"
+      />
+      <MenuCard
+        image={chechebsa}
+        heading="Chechebsa"
+        subheading="Shredded flatbread with spiced butter"
       />
     </div>
   );
