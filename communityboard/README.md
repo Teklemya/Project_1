@@ -4,7 +4,7 @@ Submitted by: **Yishak Teklemariam**
 
 This web app: **This community board show cases the ethiopian cusine and the dishes with their descripitions and the recipes.**
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
