@@ -26,11 +26,11 @@ Hover effect was added to make the cards pop out more
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-
+![Ethiopian Menu](https://i.imgur.com/n7ebF2R.gif)
 <img src='https://i.imgur.com/n7ebF2R.gif' title='Ethiopian Menu' width='' alt='Ethiopian Menu' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ScreenToGif  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
