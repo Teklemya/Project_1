@@ -2,7 +2,7 @@
 
 Submitted by: **Yishak Teklemariam**
 
-This web app: **This community board show cases the ethiopian cusine and the dishes with their descripitions.**
+This web app: **This community board show cases the ethiopian cusine and the dishes with their descripitions and the recipes.**
 
 Time spent: **2** hours spent in total
 
@@ -20,13 +20,14 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [Hover effect] List anything else that you added to improve the site's functionality!
+* [X] List anything else that you added to improve the site's functionality!
+Hover effect was added to make the cards pop out more
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/n7ebF2R.gif' title='Ethiopian Menu' width='' alt='Ethiopian Menu' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -37,11 +38,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Not much of a challenge maybe creativity wise i struggle a bit.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Yishak Teklemariam]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
