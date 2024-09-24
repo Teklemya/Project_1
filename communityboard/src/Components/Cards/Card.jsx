@@ -18,6 +18,7 @@ const Card = () => {
         image={shiro}
         heading="Shiro"
         subheading="Chickpea stew"
+        link=""
       />
       <MenuCard
         image={doro}
